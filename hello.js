@@ -1,0 +1,1 @@
+console.log("This is my first assignment of Advanced Algorithm Subject");
